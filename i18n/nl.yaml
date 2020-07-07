@@ -1,0 +1,55 @@
+# Column header strings
+- id: Resources
+  translation: "Bronnen"
+- id: Activities
+  translation: "Activiteiten"
+- id: Inform
+  translation: "Informeren"
+- id: InformEvaluate
+  translation: "Informen and Evalueren"
+- id: ShareData
+  translation: "Data delen"
+- id: IdentifyTrends
+  translation: "Identificeren van Trends"
+# Row header strings, used in small scren rendering
+- id: EaseOfUse
+  translation: "Gemakkelijk in gebruik"
+- id: Transfer
+  translation: "Overdracht"
+- id: Evaluation
+  translation: "Evaluatie"
+- id: Interaction
+  translation: "Interactie"
+- id: Creation
+  translation: "Creeëren"
+- id: BloomLevels
+  translation: "Bloom's niveau"
+# Legend
+- id: Legend
+  translation: "Legenda"
+- id: Good
+  translation: "Passend en gemakkelijk"
+- id: Neutral
+  translation: "Werk maar vraagt een vorm van design"
+- id: Bad
+  translation: "Niet de beste tool voor wat je wilt"
+# Colors
+- id: Green
+  translation: "groen"
+- id: Yellow
+  translation: "geel"
+- id: Red
+  translation: "rood"
+# Footer
+- id: CreditsTitle
+  translation: "Credit and licensie"
+- id: EnableDefaultColors
+  translation: "Gebruik standaard kleuren"
+- id: EnableAccessibleColors
+  translation: "Schakel toegankelijke kleuren in"
+- id: SupportTitle
+  translation: "Steun ons met een donatie"
+- id: SupportText
+  translation: "Maak een donation nu ❤️ om de Moodle Tool Guid website te ondersteunen."
+- id: DonateNow
+  translation: "Doneer nu!"
